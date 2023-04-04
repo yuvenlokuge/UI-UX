@@ -1,0 +1,19 @@
+.line{
+    height:7px;
+    width:70px;
+    background-color: black;
+    margin:8px auto;
+}
+body{
+    text-align: center;
+}
+#game{
+    background:linear-gradient(aquamarine,lightgreen);
+    color:magenta;
+}
+#chatbot{
+    background:linear-gradient(to right, red,blue,aquamarine,lightgreen);
+}
+#app{
+     background:linear-gradient(to bottom left, magenta,rgb(58, 81, 186),#33ccff , #336699 ,aquamarine)
+}
